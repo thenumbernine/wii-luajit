@@ -6,4 +6,6 @@ libdl was missing from Wii so I just made a macro-based glue function generator 
 
 Looks like it uses the gx system.
 
+ext is an older copy of my lua-ext GitHub project
+
 Best of luck with this one.
