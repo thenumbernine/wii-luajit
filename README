@@ -1,0 +1,9 @@
+LuaJIT for Wii via devkitPro
+
+I forget what hoops I had to jump through to get it to build
+
+libdl was missing from Wii so I just made a macro-based glue function generator and baked all the functions directly into it.
+
+Looks like it uses the gx system.
+
+Best of luck with this one.
